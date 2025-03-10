@@ -69,7 +69,7 @@ Agent Managent App(Home Assessment)
 
 # Sample Images
 
-![Agents List](https://github.com/tektheone/Agent-Management-App/blob/main/screenshots/1.%20Agents%20List.png)
-![Add Agent](https://github.com/tektheone/Agent-Management-App/blob/main/screenshots/2.%20Add%20Agent.png)
-![Added Agent](https://github.com/tektheone/Agent-Management-App/blob/main/screenshots/3.%20Added%20Agent.png?raw=true)
-![Edit Agent](https://github.com/tektheone/Agent-Management-App/blob/main/screenshots/4.%20Edit%20Agent.png?raw=true)
+![Agents List](https://github.com/tektheone/agent-management/blob/main/screenshots/1.%20Agents%20List.png?raw=true)
+![Add Agent](https://github.com/tektheone/agent-management/blob/main/screenshots/2.%20Add%20Agent.png?raw=true)
+![Added Agent](https://github.com/tektheone/agent-management/blob/main/screenshots/3.%20Added%20Agent.png?raw=true)
+![Edit Agent](https://github.com/tektheone/agent-management/blob/main/screenshots/4.%20Edit%20Agent.png?raw=true)
