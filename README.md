@@ -40,8 +40,8 @@ Agent Managent App(Home Assessment)
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/tektheone/Agent-Management-App.git
-   cd Agent-Management-App
+   git clone https://github.com/tektheone/agent-management.git
+   cd agent-management
    ```
 
 2. **Install Dependencies**:
